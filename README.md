@@ -1,8 +1,9 @@
 # Paper-Study-2021
 
-|    Date    |  Presenter   |                                                                     Topic                                                                      |    IF     |                         Slide                         |
+|    Date    |  Presenter   |                                                                     Topic                                                                      | PUBLISHER |                         Slide                         |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------------: |
 | 2021.00.00 |  PRESENTER   |                                                                  [NAME](URL)                                                                   | PUBLISHER |                        [Slide]                        |
+| 2021.08.22 |  Minho Park  |   [Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks](https://arxiv.org/abs/2003.05128)    | CVPR 2020 |               [Slide](slides/HANet.pdf)               |
 | 2021.08.15 | Beomchae Kim |                   [Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://arxiv.org/abs/1708.00489)                   | ICLR 2018 | [Slide](slides/[바스젠바이오]_20210815세미나_BCK.pdf) |
 | 2021.08.15 |  Minho Park  |          [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739)           | NIPS 2020 |      [Slide](slides/Fourier_Feature_Network.pdf)      |
 | 2021.08.01 |  Minho Park  |               [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100)               | CVPR 2021 |     [Slide](slides/210802_GIRAFFE_MinhoPark.pdf)      |
