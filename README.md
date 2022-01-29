@@ -1,8 +1,8 @@
-# Paper-Study-2021
+# AI paper study
 
 |    Date    |  Presenter   |                                                                     Topic                                                                      | PUBLISHER  |                         Slide                         |
 | :--------: | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------------------------------: |
-| 2021.00.00 |  PRESENTER   |                                                                  [NAME](URL)                                                                   | PUBLISHER  |                        [Slide]                        |
+| 2022.00.00 |  PRESENTER   |                                                                  [NAME](URL)                                                                   | PUBLISHER  |                        [Slide]                        |
 | 2022.01.23 |  Minho Park  |                             [Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/abs/2112.05131)                             |   Arxiv    |             [Slide](slides/Plenoxels.pdf)              |
 | 2022.01.16 |  Minho Park  |                            [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432)                            |   Arxiv    |             [Slide](slides/Florence.pdf)              |
 | 2022.01.09 |  Minho Park  |                   [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)                    |   Arxiv    |               [Slide](slides/CLIP.pdf)                |
