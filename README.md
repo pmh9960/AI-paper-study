@@ -1,8 +1,9 @@
 # AI paper study
 
-|    Date    | Presenter  |                                                                       Topic                                                                        | PUBLISHER |                   Slide                    |
-| :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------: |
-| 2022.00.00 | PRESENTER  |                                                                    [NAME](URL)                                                                     | PUBLISHER |                  [Slide]                   |
+|    Date    | Presenter  |                                                                       Topic                                                                        | PUBLISHER |                      Slide                      |
+| :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------: |
+| 2022.00.00 | PRESENTER  |                                                                    [NAME](URL)                                                                     | PUBLISHER |                     [Slide]                     |
+| 2022.04.10 | Minho Park |             [Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis](https://arxiv.org/abs/2101.04775)              | ICLR 2021 |        [Slide](slides/2022/FastGAN.pdf)         |
 | 2022.04.03 | Minho Park | [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833) | CVPR 2021 |      [Slide](slides/2022/semanticGAN.pdf)       |
 | 2022.03.29 | Minho Park |                         [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)                         | CVPR 2019 |         [Slide](slides/2022/SPADE.pdf)          |
 | 2022.02.13 | Minho Park |                                [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)                                |   Arxiv   |          [Slide](slides/2022/MAE.pdf)           |
