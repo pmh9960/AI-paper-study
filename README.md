@@ -1,8 +1,11 @@
 # AI paper study
 
+- [2021 paper study](2021.md)
+
 |    Date    | Presenter  |                                                                       Topic                                                                        | PUBLISHER |                      Slide                      |
 | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------: |
 | 2022.00.00 | PRESENTER  |                                                                    [NAME](URL)                                                                     | PUBLISHER |                     [Slide]                     |
+| 2022.12.04 | Minho Park |                               [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788)                               |   Arxiv   |      [Slide](slides/2022/DiffusionDet.pdf)      |
 | 2022.09.25 | Minho Park |                                [Vision Transformer Adapter for Dense Predictions](https://arxiv.org/abs/2205.08534)                                |   Arxiv   |      [Slide](slides/2022/ViT-Adapter.pdf)       |
 | 2022.08.01 | Minho Park |                   [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/abs/2102.05379)                   | NIPS 2021 |      [Slide](slides/2022/ArgmaxFlows.pdf)       |
 | 2022.06.26 | Minho Park |                    [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)                     | ICCV 2021 |    [Slide](slides/2022/Swin-Transformer.pdf)    |
